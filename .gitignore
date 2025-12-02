@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Input/Output files (so you don't upload your test cases)
+input.txt
+output.txt
+
+# OS Junk
+.DS_Store
