@@ -19,6 +19,6 @@ for _ in range(t):
 			print("First")  # Anna wins
 	else:  # even
 		if a > b:
-			print("First")  # Anna wins
+			print("First")
 		else:
-			print("Second")  # Katie wins
+			print("Second")
