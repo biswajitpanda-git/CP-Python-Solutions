@@ -23,6 +23,7 @@ for _ in range(t):
     found = False
     
     # Try up to 6 operations. 
+    
     # Why 6? Because n*m <= 25. 2^5 = 32, which covers the length requirement.
     # We add 1 extra op to cover cases where 's' is split across the seam.
     for op in range(6):
